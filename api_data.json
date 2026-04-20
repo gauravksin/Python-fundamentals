@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Anna Müller",
+    "age": 29,
+    "gender": "Female",
+    "city": "Berlin",
+    "company": "TechNova GmbH"
+  },
+  {
+    "name": "Lukas Schneider",
+    "age": 34,
+    "gender": "Male",
+    "city": "Munich",
+    "company": "Bavaria Solutions AG"
+  },
+  {
+    "name": "Sofia Weber",
+    "age": 26,
+    "gender": "Female",
+    "city": "Hamburg",
+    "company": "Nordic Logistics"
+  },
+  {
+    "name": "Jonas Fischer",
+    "age": 41,
+    "gender": "Male",
+    "city": "Frankfurt",
+    "company": "MainBank Group"
+  },
+  {
+    "name": "Mia Hoffmann",
+    "age": 31,
+    "gender": "Female",
+    "city": "Stuttgart",
+    "company": "AutoTech Systems"
+  }
+]
